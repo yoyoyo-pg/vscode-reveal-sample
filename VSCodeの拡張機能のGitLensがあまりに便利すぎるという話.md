@@ -55,7 +55,7 @@ slideNumber: true
 
 ![GitLens](imgs/2022-06-18-15-49-46.png)
 
---
+---
 
 #### COMMITS（コミットビュー）
 
@@ -63,11 +63,13 @@ slideNumber: true
 
 ![COMMITS](imgs/2022-06-18-15-53-19.png)
 
+--
+
 また、過去のコミットの詳細も確認できます
 
 ![COMMITS2](imgs/2022-06-18-15-54-57.png)
 
---
+---
 
 #### FILE HISTORY（ファイル履歴ビュー）
 
@@ -76,7 +78,7 @@ slideNumber: true
 
 ![FILE HISTORY](imgs/2022-06-18-16-01-55.png)
 
---
+---
 
 #### BRANCHES（ブランチビュー）
 
@@ -86,6 +88,30 @@ slideNumber: true
 
 ![BRANCHES](imgs/2022-06-18-16-06-20.png)
 
-##### プルされていない変更がある場合
+--
 
+**プルされていない変更がある場合**  
+「↓」アイコンクリックでプルができます
 ![BRANCHES](imgs/2022-06-18-16-08-21.png)
+
+**プッシュしていない変更がある場合**  
+「↑」アイコンクリックでプッシュができます
+![BRANCHES](imgs/2022-06-18-16-12-06.png)
+
+--
+
+**ブランチ作成**  
+ブランチを選択し右クリック > Create Branchを選択  
+![BRANCHES](imgs/2022-06-18-16-16-20.png)
+
+上部メニューに新規ブランチ名を入力してEnterで、新しいブランチが作成できます
+![BRANCHES](imgs/2022-06-18-16-17-52.png)
+![BRANCHES](imgs/2022-06-18-16-19-07.png)
+
+---
+
+#### REMOTES（リモートビュー）
+
+リモートの状態が一覧表示されます
+
+![REMOTES](imgs/![REMOTES](imgs/2022-06-18-16-26-21.png).png)
