@@ -30,7 +30,7 @@ slideNumber: true
 ### 前提
 
 - Gitの基本的な使い方が分かること
-- VSCodeがインストール済であること
+- Git、VSCodeがインストール済であること
 
 ---
 
