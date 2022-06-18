@@ -51,7 +51,7 @@ slideNumber: true
 ### GitLensを入れてみると
 
 - 先ほどの「ソース管理」内に以下のビューが追加
-- その中でもオススメのビューについて紹介します
+- 今回はその中でもよく使うビューについて紹介します
 
 ![GitLens](imgs/2022-06-18-15-49-46.png)
 
@@ -112,6 +112,36 @@ slideNumber: true
 
 #### REMOTES（リモートビュー）
 
-リモートの状態が一覧表示されます
+リモートの状態が一覧表示されます  
+fetchやpruneがアイコンクリックでできます
 
 ![REMOTES](imgs/![REMOTES](imgs/2022-06-18-16-26-21.png).png)
+
+リモートがない場合、以下のように表示されます
+
+![REMOTES](imgs/2022-06-18-16-29-53.png)
+
+--
+
+**新規リモートの作成**
+「+」アイコンクリック後、リモート名、リポジトリURIを入力しEnter  
+すると、リモートに追加されます
+![REMOTES](imgs/2022-06-18-16-38-33.png)
+
+![REMOTES](imgs/2022-06-18-16-36-32.png)
+
+![REMOTES](imgs/2022-06-18-16-36-51.png)
+
+---
+
+### まとめ
+
+- 手軽にGit操作ができるので非常に便利です！
+- 他にも便利な機能があれば是非教えてください！
+
+---
+
+### 参考文献
+
+- [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens#repositories-view-)
+- [GitLens --- Git supercharged](https://gitlens.amod.io/)
